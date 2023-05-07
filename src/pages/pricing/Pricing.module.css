@@ -3,13 +3,13 @@
     background-image: url("https://media.istockphoto.com/id/875207140/photo/sport-background-with-fitness-equipment-in-gym-gym.jpg?s=612x612&w=0&k=20&c=VEpZIAJ3wdlwHwvWuLumDmpsWczobiSH5kL981H5Cvk=");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    /* height: 100vh; */
   }
   .p_table{
       display: flex;
       justify-content: center;
       justify-content: space-around;
-        margin-top: 10em;      
+        margin-top: 3em;      
   }
   .content{
       padding: 2em;
